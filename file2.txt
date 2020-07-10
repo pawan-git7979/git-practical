@@ -1,5 +1,5 @@
 ua9368372793@gmail.com
 
-new branch created ("file_three)
+new branch created (conflict)
 
-added msg in file_two
+added msg in file_two to show conflict
